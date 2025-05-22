@@ -75,7 +75,7 @@ header div img {
 }
 
 .oui {
-    width: 500%;
+    width: 20em;
 }
 
 header div section{
@@ -94,7 +94,7 @@ header div section article{
 nav ul {
     list-style: none;
     padding: 0;
-    margin: -25%;
+    margin-top: -25%;
     display: flex;
     gap: 10%;
 }
